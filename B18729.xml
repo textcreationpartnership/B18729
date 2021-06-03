@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Case of Thomas Eyre of Hassop in the county of Derby, Esq., William Inge Esq., and divers other free-holders and inhabitants of the towns of Hope, Bradwall, and Wormhill, in the county of Derby appellants from a decree lately made against them in the court of the dutchy of Lancaster, at the suit of Thomas Eyre of Gray's Inn, Esq., and other relators.</title>
+         </titleStmt>
+         <extent>Approx. 12KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B18729</idno><idno type="EEBO-CITATION">19718676</idno>
+  <idno type="VID">205593</idno>
+  <idno type="EEBO-PROQUEST">2248559559</idno>
+  
+            <idno type="STC">Wing C1186</idno>
+            <idno type="OCLC">19718676</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B18729)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 205593)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1697:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Case of Thomas Eyre of Hassop in the county of Derby, Esq., William Inge Esq., and divers other free-holders and inhabitants of the towns of Hope, Bradwall, and Wormhill, in the county of Derby appellants from a decree lately made against them in the court of the dutchy of Lancaster, at the suit of Thomas Eyre of Gray's Inn, Esq., and other relators.</title>
+               </titleStmt>
+               <extent>1 broadside.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1684]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Eyre, Thomas, 17th cent --  Trials, litigation, etc.</term>
+               <term type="topical_term">Land tenure --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:205593:1"/>
+            <head>
+               <hi>The Case of</hi> Thomas Eyre <hi>of</hi> Hassop <hi>in the County of</hi> Derby, <hi>Esq;</hi> William Inge <hi>Esq; and divers other Free-holders and Inha<g ref="char:EOLhyphen"/>bitants of the Towns of</hi> Hope, Bradwall, <hi>and</hi> Wormhill, <hi>in the County of</hi> Derby, <hi>Appellants from a Decree lately made against them in the Court of the Dutchy of</hi> Lancaster, <hi>at the suit of</hi> Thomas Eyre <hi>of</hi> Gray<hi>'s Inn, Esq; and other Relators.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>HAT his late Majesty King <hi>Charles</hi> the First, <hi>&amp;c.</hi> in Right of his Dutchy of <hi>Lancaster,</hi> was seized of the Mannor and Forest of <hi>High-Peak</hi> in the said County of <hi>Derby,</hi> and several Wast-grounds, parcel thereof wherein are the Towns of <hi>Bowden, Middlecale-Chappel</hi> in <hi>Le Frith,</hi> and divers others; besides the Towns of <hi>Hope, Bradwall,</hi> &amp; <hi>Wormhill,</hi> first mention'd: In which three last Towns the Free-holders and Tenants have Time out of mind, had Common of Pasture, Turbary, and other Profits upon the Wast thereof, and ought still to have.</p>
+            <p>That the Relator Mr. <hi>Eyre,</hi>
+               <note place="margin">
+                  <hi>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>nno</hi> 1674.</note> upon a pretended Discovery, That a Moyety of the Wasts within the said Forest, did belong to the Crown, did obtain some Grant or Lease thereof, at Fifty Pounds Yearly, during the Queen Dowagers Term and Interest therein, and One Hundred Pounds Yearly for the Reversion. And thereon exhibited Two Informations against the Tenants of <hi>Bowden, Middlecale,</hi> and <hi>Chappel</hi> in <hi>Le Frith,</hi> and other Hamlets, on which he obtained some Decrees for several Thousands of Acres of Land, to be Allotted and set out for him; pretending there would be Sufficient left for the Free-holders and Tenants, for their Right of Common and Estovers.</p>
+            <p>But not Content therewith,
+<note place="margin">
+                  <hi>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>nno.</hi>
+               </note> Exhibited a distinct Information against the Appellants, who with some Hundred more are Free-holders and Tenants of several Messuages and Lands in the said Three Towns of <hi>Hope, Bradwall,</hi> and <hi>Wormhill.</hi>
+            </p>
+            <div type="part">
+               <head>Thereby Suggesting</head>
+               <p>That in 1639.
+<note place="margin">
+                     <hi>
+                        <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>x Effect of Mr.</hi> Eyre<hi>'s <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> Bill, or Information.</hi>
+                  </note> or 1640. the Tenants and Free holders thereof (and of the said other Towns) did Petition his said Late Majesty to De-afforest the said Forest of the <hi>High-Peak,</hi> for which (as he pretends) his Majesty was to have a Moiety of the Wasts in the said Towns, which he pretends was set out for his Majesty, &amp; the Free-holders and Tenants the other Moiety, in lieu of their Right of Common. And that some Forty or Fifty Years ago, there had been some Agreements made to that purpose: And that some Commission had issued out of the Court of Dutchy, to distinguish and set out their respective Moieties accordingly. And therefore Prayed to have a Moiety of the Wast of these three Towns, containing above Three Thousand Statute Acres to be set out for him, and to have an Execution of the said pretended Agreement, by Decree of the said Court of Dutchy.</p>
+               <p>That so great Improvements had formerly been made for the Crown,
+<note place="margin">
+                     <gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>he now Appellants An<g ref="char:EOLhyphen"/>swer to that Information.</note> out of the Wasts of the said three Towns; That there was no Surplusage of Common, and that the Inhabitants Purchased back part of those Improvements, from the Crown, and did let the same lye open and used as Common, in regard of the straitness of the Commons, nor had they been troubled with Deer, or Forest-Laws, or ever Petition'd for any De afforesting; But were more Losers than Gainers by the De-afforestation. And positively insisted that there never was any Agreement made by any of the Free-holders, or Tenants of any of the said Towns of <hi>Hope, Bradwall,</hi> or <hi>Wormhill,</hi> or any on their behalf, Thaat any Part thereof should be Inclosed, or any Colour or Reason for any such Pretence or Agreement: there not being in truth, Common sufficient for the Free-holders, and Tenants thereof.</p>
+               <p>That the said Cause being thereupon at Issue,
+<note place="margin">
+                     <hi>November,</hi> 7. 1683.</note> and the Appellants having fully prov'd their Case, and by Ancient Records and Examinations, having mani<g ref="char:EOLhyphen"/>festly differenced those three Towns from the other Towns within the said Forests, there being no Return of any Commission for a Moiety of the Wasts or Commons of these three Towns of <hi>Hope, Bradwall,</hi> and <hi>Wormhill,</hi> as there was for several other of the Towns. But on the Contrary, full and positive proof, That there had formerly (many Generations before) been found Improvements out of the Wasts belonging to these three Towns, Besides which there was not Com<g ref="char:EOLhyphen"/>mon sufficient left in the Wasts belonging to those three Towns, for the Free-holders and Tenants. And that thereupon the Jury's impanell'd by the Sheriff, Pursuant to the said Commissions, which issued out of the Dutchy above forty years ago, tho' they spent ten days in the Execution of the said Commission and Inquisition thereupon, were so far from Consenting to have a Moiety set out for the King, That they absolutely refused so to do.</p>
+               <p>The said Cause came to be heard before the Chancellor of the Dutchy, assisted by the Lord Chief Justice <hi>Jones,</hi> and three Barons of the Exchequer; and after two days spent in hearing thereof, the main Question being, Whether the Free-holders of the said three Towns of <hi>Hope, Bradwall,</hi> and <hi>Wormhill,</hi> had made such Agreement as was by the said Mr. <hi>Eyre</hi> the Relator pretended, for the setting out and improving of a Moiety of the Wasts belonging to the said three Towns or not? And if an Agreement, how far the same was proper to be decreed in Equity? The said Chief Justice and three Barons then declared, That the said Relator had no sufficient Evidence of any such Agreement as was by him pretended, whereon for the Court to ground a Decree. And therefore Advis'd, That before any further Proceedings should be had in the said Cause, That there should be a Tryal at the Exchequer-Bar the then next <hi>Easter</hi> Term, by a <hi>Middlesex</hi> Jury, on this Issue— Whether the said Free-holders and Tenants of the said three Towns of <hi>Hope, Bradwall,</hi> and <hi>Wormhill,</hi> had made any such Agreement as was Suggested, or not? And if an Agreement should be proved and found, Then the Court would Consider how far the same was fit to be Decreed?</p>
+               <p>That the Relator declining a Tryal (as having too much cause to fear,
+<note place="margin">
+                     <hi>H<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>llary,</hi> 1673.</note> no such Agreement can ever be proved) moved the Chancellor for a Re-hearing. And in <hi>April</hi> and <hi>May</hi> following, the Cause was Re heard, the Chancellor being assisted with three Barons only, the Lord Chief Justice <hi>Jones</hi> his Assistance being not desired.
+<note place="margin">
+                     <hi>April</hi> 29. 1684.</note>
+               </p>
+               <p>That on the Re-hearing, the Relator had no way bettered or altered his Case from what it was at the first hearing: And altho' the Lord Chief Justice <hi>Jones</hi> had as aforesaid, and the said Baron <hi>Atkins</hi> after both Hearings, declared their Opinions and Advised the Chancellor that no Decree ought to be made upon the said pretended Agreements, or any further Proceedings to be grounded thereon, without a Tryal at Law first had, whereon to Establish a Decree.</p>
+               <p>Yet the Chancellor on the Third day of <hi>June</hi> last,
+<note place="margin">
+                     <hi>J<gap reason="illegible" resp="#murp" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>
+                     </hi> 3. 1684.</note> without any further Hearing or Assistance, or Tryal had, Pronounced a Deree for the said Mr. <hi>Eyre</hi> the Relator, to have a Mojety of the said Commons, on a Survey which he (upon a Commission <hi>ex parte</hi>) had before that time caused to be taken, whereby he allotted in some of the said Towns four parts in five, for a pretended Moyety, And that the Appellants should sence against his part, and pay full Costs, tho the Appellants had clear Evidence by Records and Credible Witnesses against any Agreement or Presumption thereof.</p>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="decree">
+                           <p>That the said Decree (as is humbly Conceived) is contrary to the Rules of Equity and Justice, It being not only to Establish an Agreement without, but against Evidence, and to Decre the Execution of a pretended Agreement supposed to be made near fifty years ago, according to which in all this time there hath never been any Enjoyment, Execution, or Performance, and against which there is full and plain Evidence: And yet by this Decree, the Ap<g ref="char:EOLhyphen"/>pellants are to have their Inheritances bound, And are to be for ever barred from Tryal of their Right (tho' never so Apparent) And must lose their Common in above Three Thousand Statute Acres, must sence from the Relator (which would Cost them above half the value of their Tenements) and must yield four fifth parts for a Moiety, and pay him full Costs for defending their own Right, or otherwise lye all their Lives in the Goale for disobedience to the said pretended Decree, to the utter Ruine of many of them and their Families, tho' near Five Hundred in number, and of all their Estates in the said Towns.</p>
+                           <p>That the said Proceedings in the said Cause (in the manner of them) are, as is humbly conceived, Unpresidented, and the said Decree manifestly Erro<g ref="char:EOLhyphen"/>neous and Unjust. And therefore they have humbly Appealed from the same, to the Right Honourable the Lords in Parliament. And do most humbly Pray their Lordships Consideration thereupon, and that Right may be done.</p>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Objection. </seg>
+                  </label> The Relator (and now Respondent) Mr. <hi>Erre,</hi> doubting (as it seems) the Justice of his Cause, and whether he can maintain the said Decree upon the Merits, By his Answer to the said Petition of Appeal, doth insist, That the King's Attorney, and the Queen Dowager's Attorney and Trustees, being Parties with him, in the Information of the Dutchy, ought also to have been made Defendants to the Appellants Petition of Appeal.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Answer to the Objection. </seg>
+                  </label> In the Original of the Cause in the Dutchy, it might be reasonable to Insist they should be made Parties, That at the Hearing of the Cause it might appear how far the King, or Queen, or her Trustees were concerned, least any thing might be done in the said Cause, to the Prejudice of their Right or Interest, without their being heard. But when the said Cause came to Hearing, it did fully Appear by the Relator <hi>Eyre</hi>'s own Grants and Evidence. That the Crown, or the Queen Dowager, or her Trustees, were in no sort whatsoever, concerned in any wise: The Lands and Right of the Crown, as also of the Queen and her Trustees, being absolutely Granted away to the Relator and his Heirs in Fee-Simple. And thereupon the very Decree made in the Dutchy, is only for the Benefit of Mr. <hi>Eyre</hi> the Relator, and nothing at all Ordered (<hi>Pro</hi> or <hi>Con</hi>) in reference to the Crown, or her said Majesty and her Trustees.</p>
+               <p>The Appellants Petition is only against the Decre made for Mr. <hi>Eyre</hi> the Relator, And they are yet to learn why they should make those Persons Parties, for or against whom there is no Order or Decree, and who are no ways concerned in the Decree that is Appealed against, whether it stand Con<g ref="char:EOLhyphen"/>firmed or be Reversed. It being Agreed on all sides, That the Lands Mr. <hi>Eyre</hi> hath already obtained (and which are not in question in this <gap reason="illegible" resp="#murp" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> are Abundantly more than Sufficient to Answer the Fee-farm Rent Reserved to the Crown in all Events.</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
